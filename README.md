@@ -33,7 +33,7 @@ This section highlights my strengths as a developer and the stack I am most conf
 # 🌍 Languages
 A list of the languages I speak, along with my proficiency levels.
 
-# 🏆 Awards
+# 🏆 Achievements
 A section dedicated to recognitions, certifications, or achievements earned throughout my academic or professional journey.
 
 # 🎯 Interests
