@@ -1,59 +1,43 @@
-# Portfolio
+# 📄 Digital Resume – Angular Application
+A modern and responsive digital résumé built with Angular, designed to present my background, skills, and experiences through a clean and intuitive interface.
+This project highlights both my technical abilities and my focus on usability and visual clarity.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.19.
+# 🧑‍💼 About Me
+A brief introduction to who I am, my motivations, and my professional mindset.
+This section outlines my passion for software development, my problem‑solving approach, and my commitment to continuous learning.
 
-## Development server
+# 🎓 Education
+An overview of my academic background, including:
+• 	Degrees and certifications
+• 	Institutions attended
+• 	Relevant coursework
+• 	Key academic achievements
+This section reflects the foundations of my technical knowledge and growth.
 
-To start a local development server, run:
+# 💼 Experience
+A collection of my professional and personal experiences, such as:
+• 	Internships and work placements
+• 	Technical and academic projects
+• 	Team collaborations
+• 	Responsibilities and accomplishments
+Each entry focuses on practical skills, technologies used, and the impact of my contributions.
 
-```bash
-ng serve
-```
+# 🛠️ Technical Skills
+A categorized summary of the technologies and tools I work with:
+• 	Programming languages
+• 	Frameworks and libraries
+• 	Backend and database technologies
+• 	Development tools, version control, and workflows
+This section highlights my strengths as a developer and the stack I am most confident with.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+# 🌍 Languages
+A list of the languages I speak, along with my proficiency levels.
 
-## Code scaffolding
+# 🏆 Awards
+A section dedicated to recognitions, certifications, or achievements earned throughout my academic or professional journey.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+# 🎯 Interests
+A brief look into my personal interests, including:
+• 	Passion for sports and genuine enjoyment in practicing them
+• 	Technology, innovation, and continuous learning
+• 	Creative or personal hobbies that shape who I am
