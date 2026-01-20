@@ -1,7 +1,7 @@
 #left-main-info {
     position: relative;
     min-height: 100vh;
-    background-image: url('/it.jpeg');
+    background-image: url('/src/assets/images/it.jpeg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
