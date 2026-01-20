@@ -1,0 +1,15 @@
+/* Smooth scroll globale */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Offset per compensare la navbar fissa (se ne hai una) */
+/* Se la navbar è fixed/sticky, aggiungi questo: */
+#aboutme,
+#education,
+#skills,
+#languages,
+#achievements {
+    scroll-margin-top: 70px;
+    /* Regola in base all'altezza della navbar */
+}
