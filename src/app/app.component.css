@@ -13,3 +13,13 @@ html {
     scroll-margin-top: 70px;
     /* Regola in base all'altezza della navbar */
 }
+
+html,
+body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+body {
+    position: relative;
+}
