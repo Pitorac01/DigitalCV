@@ -1,4 +1,10 @@
-# 📄 Digital Resume – Angular Application
+# Digital CV - Portfolio
+
+My personal portfolio website showcasing my skills, education, and projects.
+
+🌐 **[View Live Site](https://Pitorac01.github.io/DigitalCV/)**
+
+# 📄 Digital Resume
 A modern and responsive digital résumé built with Angular, designed to present my background, skills, and experiences through a clean and intuitive interface.
 This project highlights both my technical abilities and my focus on usability and visual clarity.
 
