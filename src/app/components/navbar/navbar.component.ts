@@ -10,10 +10,9 @@ import { Component } from '@angular/core';
 export class NavbarComponent {
 
   scrollTo(sectionId: string): void {
-    // Chiudi prima l'offcanvas
+
     this.closeOffcanvas();
 
-    // Aspetta che l'offcanvas si chiuda completamente prima di scrollare
     setTimeout(() => {
       const element = document.getElementById(sectionId);
       if (element) {
@@ -23,7 +22,7 @@ export class NavbarComponent {
           inline: 'nearest'
         });
       }
-    }, 300); // 300ms è il tempo di animazione di chiusura dell'offcanvas
+    }, 300);
   }
 
   closeOffcanvas(): void {
